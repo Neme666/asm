@@ -3,4 +3,6 @@
 ### Project descriptions
 **LX_000_Exit**: Simple 'do nothing' project. It exits to the shell.
 
-**LX_001_Helloworld Buggy**: A non-working Hello World. The best way to begin!.
+**LX_001_Helloworld Buggy**: A non-working Hello World. The best way to begin!
+
+**LX_002_Helloworld Ok**: The working Hello World!

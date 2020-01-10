@@ -11,3 +11,9 @@
 
 **LX_004_sumRegisters**: The working Hello World!
 
+**LX_005_SmallSum**: Uses the 'Low bytes' of registers to make sums
+
+**LX_006_AddCarry**: Performs addition with carry byte
+
+**LX_007_Borrow**: Performs subtraction with borrow byte
+

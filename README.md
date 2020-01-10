@@ -6,3 +6,8 @@
 **LX_001_Helloworld Buggy**: A non-working Hello World. The best way to begin!
 
 **LX_002_Helloworld Ok**: The working Hello World!
+
+**LX_003_sum**: Sums a constant to the contents of a register
+
+**LX_004_sumRegisters**: The working Hello World!
+

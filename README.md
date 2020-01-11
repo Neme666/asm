@@ -17,3 +17,8 @@
 
 **LX_007_Borrow**: Performs subtraction with borrow byte
 
+**LX_008_loop**: simple 'for' loop implemented in aassembly
+
+**LX_009_Fibonacci**: the implementation of the Fibonacci sequence computation
+
+**LX_010_Fibonacci**: the implementation of the Fibonacci sequence computation, polished up

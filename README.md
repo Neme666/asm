@@ -22,3 +22,7 @@
 **LX_009_Fibonacci**: the implementation of the Fibonacci sequence computation
 
 **LX_010_Fibonacci**: the implementation of the Fibonacci sequence computation, polished up
+
+**LX_011_infiniteLoop**: Shows the risk of an infinite loop
+
+**LX_012_Jumps**: Illustrates jmp, jb, jns (at the moment. More to come).

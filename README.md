@@ -26,3 +26,13 @@
 **LX_011_infiniteLoop**: Shows the risk of an infinite loop
 
 **LX_012_Jumps**: Illustrates jmp, jb, jns (at the moment. More to come).
+
+**LX_013_USMult**: Illustrates unsigned multiplication, buggy
+
+**LX_014_USMult2**: Illustrates unsigned multiplication, not buggy
+
+**LX_015_Div**: Illustrates integer division
+
+**LX_016_procedureBuggy**: fun with procedures,buggy
+
+
